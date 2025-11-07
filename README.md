@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @indegaetano
-- 👀 I’m interested in applied mathematics and old computer systems.  
+- 👀 I’m interested in applied mathematics and Commodore-64 computer systems.  
 - 🌱 I’m currently learning applied math as well as cybersecurity applications.
 
 - Check out my past projects and work that is listed on my GitHub from my graduate studies and other projects that I have worked on in my freetime.
